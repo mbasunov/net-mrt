@@ -1,5 +1,8 @@
 Revision history for Perl extension Net::MRT.
 
+????-??-?? 0.0401 MaxiM Basunov <maxim.basunov@gmail.com>
+    Source code publicitly available on GitHub
+
 2014-01-14 0.04 MaxiM Basunov <maxim.basunov@gmail.com>
     Improvements:
         - NLRI fully decoded when MP_REACH_MLRI contain data in RFC4760 format

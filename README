@@ -1,3 +1,6 @@
+NOTE: The source code has critical incompatibility with currently produced BGP dump.
+You may switch to Net::BGPdump project which provides comprehensive functionality with similar speed.
+
 Net-MRT version 0.05
 ====================
 
